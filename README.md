@@ -1,6 +1,6 @@
 ###  SELF-BALANCING BOT PROJECT ###
 
-Overvie:
+Overview:
 
 Welcome to the Self-Balancing Bot project! This repository contains all the code and information you need to build your own self-balancing robot using two NEMA 17 stepper motors, an Arduino Uno, CNC shield, DRV8255 stepper motor drivers, MPU6050 accelerometer and gyroscope, and a Bluetooth module for convenient control.
 
