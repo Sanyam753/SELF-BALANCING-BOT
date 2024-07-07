@@ -39,4 +39,11 @@ This project is licensed under the MIT License, making it open and accessible fo
 Acknowledgments
 Special thanks to the open-source community for their contributions and support in making this project possible.
 
+
+![1sa](https://github.com/Sanyam753/SELF-BALANCING-BOT/assets/135142973/ce76aa03-fb03-4f0c-b1be-94f05f0375ea)
+
+
+![igris1](https://github.com/Sanyam753/SELF-BALANCING-BOT/assets/135142973/569269ee-e677-4a6d-87dc-2ca59906c518)
+
+
 Happy balancing!
