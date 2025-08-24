@@ -3,7 +3,8 @@
 
 A fully autonomous, self-balancing robot built using Raspberry Pi and ESP32, equipped with SLAM (Simultaneous Localization and Mapping), IoT connectivity, and robust obstacle avoidance. This robot is capable of real-time balance, environment mapping, and remote telemetry, making it ideal for applications like smart delivery and surveillance.
 
-![Project Demo](https://youtube.com/shorts/E-i_8Q7rbdQ)
+![Project Demo](https://youtube.com/shorts/LjPeDmcD1AI?si=jmbaAcUtSumVHJne)
+
 
 ## 🔧 Features
 
