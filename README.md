@@ -114,7 +114,7 @@ Upload `esp32_mqtt.ino` to your ESP32. Configure WiFi credentials and MQTT broke
 
 ## 📹 Demo & Links
 
-* 📽️ **Video Demo**: [YouTube Short](https://youtube.com/shorts/E-i_8Q7rbdQ)
+* 📽️ **Video Demo**: [YouTube Short](https://youtube.com/shorts/LjPeDmcD1AI?si=jmbaAcUtSumVHJne)
 
 
 ---
